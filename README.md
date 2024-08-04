@@ -4,11 +4,13 @@
 <p align="center"> <img src="./img/fpga.jpg" alt="24x7fpga" height="155" /></p>
 
 I am currently a Ph.D. candidate at Wright State University, working as a GRA in Digital Receiver
-Lab. My doctoral research focuses on optimizing the Fast Fourier Transform (FFT) for efficient multiple
+Lab. My doctoral research focuses on optimizing the Fast Fourier Transform (FFT) for Xilinx UltraScale+ RFSoC 1275 efficient multiple
 signal detection in military applications, addressing challenges of computation complexity and signal
 resolution.
 
-🔬 Know about my [research](https://24x7fpga.com/research/2024_07_08_10_15_40_research/)
+🔬 Know more about my [research](https://24x7fpga.com/research/2024_07_08_10_15_40_research/).
+
+Check out my GitHub repositories for a mix of cool projects.
 
 - 📁 [iVerilog](https://github.com/24x7fpga/iVerilog): This GitHub repository features RTL designs from basic to advanced level that are simulated using Icarus Verilog. 
 - 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Serves for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily inspired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping was conducted on the Zybo-Z7 development board
