@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="./img/fpga.jpg" alt="24x7fpga" height="155" /></p>
 
-I am currently a Ph.D. candidate at Wright State University, working as a GRA in Digital Receiver Lab. My doctoral research focuses on hardware optimization of Fast Fourier Transform (FFT) for Xilinx UltraScale+ RFSoC 1275 FPGA that performance efficient multiple signal detection in military applications, addressing challenges of computation complexity and signal resolution implemented on Xilinx UltraScale+ RFSoC 1275.
+I am currently a Ph.D. candidate at Wright State University, working as a Graduate Research Assistant in the Digital Receiver Lab. My doctoral research focuses on hardware optimization of the Fast Fourier Transform (FFT) for the Xilinx UltraScale+ RFSoC 1275 FPGA, aiming for efficient multiple signal detection in military applications and addressing challenges related to computation complexity and signal resolution.
 
 🔬 Know more about my [research](https://24x7fpga.com/research/2024_07_08_10_15_40_research/).
 
