@@ -30,15 +30,15 @@ Check out my GitHub repositories for a mix of cool projects.
 
 <p align="left"> 
 
-<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="./img/vivado.png" alt="vivado" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.xilinx.com/video/hardware/getting-started-with-system-generator.html" target="_blank" rel="noreferrer"> <img src="./img/sysgen.png" alt="sysgen" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> &nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> &nbsp; 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="./img/emacs.png" alt="emacs" width="25" height="25" /> </a> &nbsp;
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="./img/vim.png" alt="vim" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="./img/vivado.png" alt="vivado" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.xilinx.com/video/hardware/getting-started-with-system-generator.html" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="./img/sysgen.png" alt="sysgen" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.mathworks.com/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.cprogramming.com/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> &nbsp;
+<a href="https://www.python.org" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> &nbsp; 
+<a href="https://git-scm.com/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.linux.org/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.gnu.org/software/emacs/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="./img/emacs.png" alt="emacs" width="25" height="25" /> </a> &nbsp;
+<a href="https://www.vim.org/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="./img/vim.png" alt="vim" width="25" height="25" /> </a> &nbsp;
 
 </p>
 
