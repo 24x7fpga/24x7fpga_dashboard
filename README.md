@@ -11,7 +11,7 @@ resolution.
 🔬 Know about my [research](https://24x7fpga.com/research/2024_07_08_10_15_40_research/)
 
 - 📁 [iVerilog](https://github.com/24x7fpga/iVerilog): This GitHub repository features RTL designs from basic to advanced level that are simulated using Icarus Verilog. 
-- 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Severs for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily ispired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping was conducted on the Zybo-Z7 development board
+- 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Serves for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily inspired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping was conducted on the Zybo-Z7 development board
 - 📁 [ZyboZ7](https://github.com/24x7fpga/ZyboZ7): This repository features design examples that are implemented on Xilinx Zynq-7000 SoC series FPGA developed by Digilent called Zybo-Z7.
 
 
