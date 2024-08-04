@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="./img/fpga.jpg" alt="24x7fpga" height="155" /></p>
 
-I am currently a Ph.D. candidate at Wright State University, working as GRA in the Digital Receiver
+I am currently a Ph.D. candidate at Wright State University, working as a GRA in Digital Receiver
 Lab. My doctoral research focuses on optimizing the Fast Fourier Transform (FFT) for efficient multiple
 signal detection in military applications, addressing challenges of computation complexity and signal
 resolution.
