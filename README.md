@@ -12,7 +12,7 @@ I am currently a Ph.D. candidate at Wright State University, working as a Gradua
 
 Check out my GitHub repositories for a mix of cool projects.
 
-- 📁 [iVerilog](https://github.com/24x7fpga/iVerilog): This GitHub repository features RTL designs from basic to advanced level that are simulated using Icarus Verilog. 
+- 📁 [iVerilog](https://github.com/24x7fpga/iVerilog): This GitHub repository features RTL designs from basic to advanced level that are simulated using [Icarus Verilog](https://steveicarus.github.io/iverilog/) and [GTKwave](https://gtkwave.sourceforge.net/) for visualizing simulated output. 
 - 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Serves for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily inspired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping was conducted on the Zybo-Z7 development board
 - 📁 [ZyboZ7](https://github.com/24x7fpga/ZyboZ7): This repository features design examples that are implemented on Xilinx Zynq-7000 SoC series FPGA developed by Digilent called Zybo-Z7.
 
@@ -30,11 +30,11 @@ Check out my GitHub repositories for a mix of cool projects.
 
 <p align="left"> 
 
-<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="./img/vivado.png" alt="git" width="25" height="25" style="padding-right: 8px" /> </a>
-<a href="https://www.xilinx.com/video/hardware/getting-started-with-system-generator.html" target="_blank" rel="noreferrer"> <img src="./img/sysgen.png" alt="git" width="25" height="25" style="padding-right: 8px;"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25" style="padding-right: 8px;"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" style="padding-right: 8px;"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" style="padding-right: 8px;"/> </a> 
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="./img/vivado.png" alt="vivado" width="25" height="25" style="padding-right: 8px" style="text-decoration: none;"/> </a>
+<a href="https://www.xilinx.com/video/hardware/getting-started-with-system-generator.html" target="_blank" rel="noreferrer"> <img src="./img/sysgen.png" alt="sysgen" width="25" height="25"  style="padding-right: 8px;" style="text-decoration: none;"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25" style="padding-right: 8px;" style="text-decoration: none;"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" style="padding-right: 8px;" style="text-decoration: none;"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" style="padding-right: 8px;" style="text-decoration: none;"/> </a> 
 
 </p>
 
