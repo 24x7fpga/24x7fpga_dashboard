@@ -29,7 +29,7 @@ Check out my GitHub repositories for a mix of cool projects.
 
 <p align="left"> 
 
-<a href="https://www.xilinx.com/products/design-tools/vivado.html" style="text-decoration:none"> <img src="./img/vivado.png" alt="vivado" width="25" height="25" style="text-decoration:none" /> &nbsp;
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" style="text-decoration:none"> </a> <img src="./img/vivado.png" alt="vivado" width="25" height="25" style="text-decoration:none" />  </a> &nbsp;
 <a href="https://www.xilinx.com/video/hardware/getting-started-with-system-generator.html" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="./img/sysgen.png" alt="sysgen" width="25" height="25" /> </a> &nbsp;
 <a href="https://www.mathworks.com/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25" /> </a> &nbsp;
 <a href="https://www.cprogramming.com/" style="text-decoration:none"  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> &nbsp;
