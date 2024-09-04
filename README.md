@@ -15,8 +15,6 @@ Check out my GitHub repositories for a mix of cool projects.
 - 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Serves for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily inspired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping was conducted on the Zybo-Z7 development board
 - 📁 [ZyboZ7](https://github.com/24x7fpga/ZyboZ7): This repository features design examples that are implemented on Xilinx Zynq-7000 SoC series FPGA developed by Digilent called Zybo-Z7.
 
-⚡ Fun fact [I love photography](https://instagram.com/negativeparking).
-
 
 
 <!-- <h3 align="left">Connect with me:</h3>
