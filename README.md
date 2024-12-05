@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate at Wright State University, working as a Gradua
 
 Check out my GitHub repositories for a mix of cool projects.
 
-- 📁 [iVerilog](https://github.com/24x7fpga/iVerilog): This GitHub repository features RTL designs from basic to advanced level that are simulated using Icarus Verilog and GTKwave for visualizing simulated output.
+- 📁 [RTL](https://github.com/24x7fpga/RTL): This GitHub repository features RTL designs from basic to advanced level that are simulated using Verilator, Icarus Verilog or Vivado and GTKwave for visualizing simulated output.
 - 📁 [SystemVerilog_Verification](https://github.com/24x7fpga/SystemVerilog_Verification): This repository contains a collection of rules, methods and design examples for conducting design verification using SystemVerilog.
 - 📁 [UVM](https://github.com/24x7fpga/UVM): A repository showcasing verification methodologies using the UVM (Universal Verification Methodology) framework, featuring examples for various designs and protocols.
 - 📁 [VanillaFPRO](https://github.com/24x7fpga/VanillaFPRO): Serves for a basic understanding of a SoC design with a memory-mapped I/O subsystem. This repository is heavily inspired from the book [FPGA Prototyping by SystemVerilog Examples](https://www.amazon.com/FPGA-Prototyping-SystemVerilog-Examples-MicroBlaze/dp/1119282667). The SoC prototyping is conducted on the Zybo-Z7 development board.
